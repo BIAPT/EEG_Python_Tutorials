@@ -4,9 +4,11 @@
 
 Python is our programming language of choice due to its large open-source community and resources. Python, along with MATLab and R are the common languages to perform neuroimaging analysis. Python is a versatile language; many individuals have contributed to developing additional packages that run on top of Python to allow for more specific use cases. Below in Figure 1. we can see some examples of Python packages that are part of the Python environment. For instance, Numpy is a software package for high-level mathematical programming with arrays and matrices, Matplotlib is a visualization software, and Scikit-learn implements machine learning.  
 
+<p align="center">
 Figure 1. Python Landscape  
 ![Diagram of Python Packages](https://pydsc.wordpress.com/wp-content/uploads/2017/11/pythonenvironment.png?w=663)
- 
+</p>
+
 Python will be used with the Anaconda environment and Jupyter Notebooks on our local machines for neuroimaging analysis. For now, the first practical skills and exercises of this guide we will use Google Colab. Google Colab is an online accessible workspace to run Python code, it offers a good amount of storage and RAM to perform our scripts. It provides great computational power, all on the cloud without running on your local machine. A great introductory Python course with the Jupyter environment can be found here https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html   
 
 The associated google collab is: 
