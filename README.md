@@ -12,7 +12,7 @@ Figure 1. Python Landscape
 
 (from https://pydsc.wordpress.com/wp-content/uploads/2017/11/pythonenvironment.png?w=663)
 
-Python will be used with the **Anaconda environment and Jupyter Notebooks** on our local machines for neuroimaging analysis. For the first exercises, we will use **Google Colab**. Google Colab is an online accessible workspace to run Python code, it offers a good amount of storage and RAM to perform our scripts. It provides great computational power, all on the cloud without running on your local machine. *Download the .ipynb files, upload to your google drive and then open in colab*.  A **great introductory Python course** with the Jupyter environment can be found here https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html   
+Python will be used with the **Anaconda environment and Jupyter Notebooks** on our local machines for neuroimaging analysis. For the first exercises, we will use **Google Colab**. Google Colab is an online accessible workspace to run Python code, it offers a good amount of storage and RAM to perform our scripts. It provides great computational power, all on the cloud without running on your local machine. ***Download the .ipynb files, upload to your Google Drive and then open in colab***.  A great **introductory Python course** with the Jupyter environment can be found here https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html   
 
 ### The associated Google collab is: 
 - https://colab.research.google.com/github/jckantor/CBE30338/blob/master/docs/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.ipynb 
