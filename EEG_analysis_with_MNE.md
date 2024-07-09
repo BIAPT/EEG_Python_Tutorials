@@ -4,8 +4,6 @@
 The best comprehensive online course for EEG neuroimaging is https://neuraldatascience.io/intro.html. 
 It is accompanied by a YouTube page with incredible explanatory videos: https://www.youtube.com/playlist?list=PLtfEWMIgWS22MMZjPIzBRE2cHhMcvEKwp 
 
-![Example Video](https://www.youtube.com/playlist?list=PLtfEWMIgWS22MMZjPIzBRE2cHhMcvEKwp)
-
 ## Other Neuroimaging online courses (some reference fMRI) 
 - https://neuroimaging-data-science.org/root.html  
 - https://dartbrains.org/content/intro.html  
@@ -18,9 +16,7 @@ It is accompanied by a YouTube page with incredible explanatory videos: https://
 ## EEG: What is EEG? 
 Scalp electroencephalography (EEG) was invented around 100 years ago by Hans Berger and has provided a great method of inspecting the electrical signatures of neural activity, more on its history is found in Stone & Hughes, 2013 [1]. Topical overviews of the tool can be found at https://info.tmsi.com/blog/what-is-eeg and https://en.wikipedia.org/wiki/Electroencephalography. A more technical perspective with a wealth of resources can be found here http://www.scholarpedia.org/article/Electroencephalogram. Take a deep dive into what the EEG signal means, what is the signal we are recording, and where it comes from in Cohen, 2017 [2] and considerations of confounding factors are found in Burle et al., 2015 [3]. A Nature review article detailing the major electrophysiological recordings can be found in Buszaki et al., 2012 [4]. 
 
-A great video on the matter can be found here: 
-
-![EEG Video](https://www.youtube.com/watch?v=Bmt89hHyxuM&lc=UgxtrqTbC1Mb3w8VtbN4AaABAg&ab_channel=MikeXCohen)
+A great video on the matter can be found here: https://www.youtube.com/watch?v=Bmt89hHyxuM&lc=UgxtrqTbC1Mb3w8VtbN4AaABAg&ab_channel=MikeXCohen
 
 ## EEG Preprocessing  
 A mind map of EEG neuroimaging processing can be found here (https://artemis.incf.org/). It is debated how much cleaning or processing should be performed on EEG signals. Raw EEG is confounded by many artifacts, listed above, that bias our signal (intended activity to capture) and can introduce noise (unintended signal). This can be eye movements, head movements, heartbeat, surrounding electrical noise, and much more. On the other hand, we do not want to over-clean our signal and inadvertently remove the signal we intended to inspect. A list of methods of reducing noise in EEG signals can be found here: https://mentalab.com/reduce-noise-in-eeg-recordings/. A great article on this can be found in Delorme, 2023 [7].
