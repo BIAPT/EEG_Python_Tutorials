@@ -7,6 +7,7 @@ Python is our programming language of choice due to its large open-source commun
 <p align="center">
 Figure 1. Python Landscape  
 </p>
+
 ![Diagram of Python Packages](https://pydsc.wordpress.com/wp-content/uploads/2017/11/pythonenvironment.png?w=663)
 
 Python will be used with the Anaconda environment and Jupyter Notebooks on our local machines for neuroimaging analysis. For now, the first practical skills and exercises of this guide we will use Google Colab. Google Colab is an online accessible workspace to run Python code, it offers a good amount of storage and RAM to perform our scripts. It provides great computational power, all on the cloud without running on your local machine. A great introductory Python course with the Jupyter environment can be found here https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html   
@@ -27,7 +28,7 @@ https://docs.python.org/2/tutorial/
 https://www.greenteapress.com/thinkpython/html/index.html 
 
 - The best course I have found is https://www.udemy.com/course/learn-python-programming-from-a-z/  Which is available on Udemy, if you have an account. Check if your institution provides a license.
-- 
+
 #### To learn from Python: 
 - Data types  
 - Arrays and Matrices 
