@@ -1,7 +1,5 @@
-# EEG_Python_Tutorials
-Tutorials for EEG analysis in Python
-
-Data Analysis: The Python Environment  
+# EEG_Python_Tutorials: Tutorials for EEG analysis in Python
+## Data Analysis: The Python Environment  
 
 Python is our programming language of choice due to its large open-source community and resources. Python, along with MATLab and R are the common languages to perform neuroimaging analysis. Python is a versatile language; many individuals have contributed to developing additional packages that run on top of Python to allow for more specific use cases. Below in Figure 1. we can see some examples of Python packages that are part of the Python environment. For instance, Numpy is a software package for high-level mathematical programming with arrays and matrices, Matplotlib is a visualization software, and Scikit-learn implements machine learning.  
 
